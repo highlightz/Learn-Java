@@ -1,0 +1,6 @@
+[Tip1]
+Compiling and running steps of java programs in command line:
+$ javac MyFirstJavaProgram.java
+$ java MyFirstJavaProgram 
+
+In Java language, an interface can be defined as a contract between objects on how to communicate with each other.
