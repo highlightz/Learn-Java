@@ -7,3 +7,5 @@ In Java language, an interface can be defined as a contract between objects on h
 
 When we consider a Java program it can be defined as a collection of objects that communicate via invoking each other's methods.
 注：调用另一个对象的方法，就是所谓的向另一个对象发送消息。
+
+主函数类与被调用放在同一路径下，编译时，只编译主函数类即可。
