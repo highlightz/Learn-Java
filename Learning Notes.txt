@@ -18,3 +18,7 @@ Class variables are variables declared with in a class, outside any method, with
 注：就是静态成员变量，归属权不是实例对象，而是类。
 
 There can be only one public class per source file.
+
+Jav中有两大类数据类型：
+1.元数据类型
+2.Reference/Object数据类型，例如，Animal animal = new Animal("giraffe");
