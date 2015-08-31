@@ -26,3 +26,6 @@ Java中有两大类数据类型：
 Ubuntu Java开发环境搭建：
 http://jingyan.baidu.com/article/86fae346b696633c49121a30.html
 
+[Tip3]
+Instance variables can be accessed directly by calling the variable name inside the class. However within static methods and different class ( when instance variables are given accessibility) should be called using the fully qualified name . ObjectReference.VariableName.
+
